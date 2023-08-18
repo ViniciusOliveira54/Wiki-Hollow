@@ -1,0 +1,103 @@
+body { 
+    background-image: url(https://images.alphacoders.com/108/1080252.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    image-rendering: crisp-edges;
+    margin: 40px;
+    
+}
+
+
+nav { 
+
+    border-radius: 5px;
+    background-color: black;
+    margin-right:40px;
+    margin-top: 30px;
+    margin-left: 40px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    align-items: center;
+    display: flex;
+    
+    
+
+}
+ 
+h1 { 
+
+    color: aliceblue;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative; left: 250px;
+    align-items: center;
+    justify-content: center;    
+    display: flex;
+}
+
+#image-nav {
+    width:200px;
+    height: 70px;
+    padding: 20px;;
+    
+}
+
+#hollow-nav{
+    width: 70px;
+    height: 90px;
+    position: relative; left: 635px; bottom:10px;
+    
+}
+
+
+.pagina-inicial {
+    background-color:#1a1e23;
+    box-shadow: #1a1e23;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: -15px;
+    padding-top: 40px;
+
+}
+
+.pagina-inicial h2, p{ 
+
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    
+
+
+}
+
+p {
+
+    max-width: 45%;
+}
+
+.text-left { 
+    width: 50%;
+    float: left;
+}
+
+.information {
+    float: right;
+    width: 40%;
+    position: relative; bottom: 600px; left: 30px;
+    vertical-align: baseline;
+    
+
+    
+}
+
+#para-information {
+    background-color: black;
+    font-size: 30px;
+}
+
+#Logo-game {
+    width: 270px;
+    height: 180px;
+}
+
